@@ -1,3 +1,6 @@
 .stack-work/
 univ-datascience.cabal
 *~
+*.hi
+*.o
+*.svg
